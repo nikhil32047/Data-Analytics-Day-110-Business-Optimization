@@ -1,0 +1,87 @@
+📊 Day 110:
+===============
+
+Data Analytics Daily Lessons
+
+Today’s Focus: Advanced Business Analytics + Optimization + Real-World Case Study
+
+📘 Lesson 1: Cohort Analysis for Business Retention
+======================================================
+Summary:
+Cohort analysis groups users by a common event (signup month, first purchase) to understand retention patterns across cohorts.
+
+Example:
+Jan Cohort: 1000 users → 400 returned in Feb → retention = 40%
+Feb Cohort: 1200 users → 300 returned in Mar → retention = 25%
+➡️ Helps companies identify strong/weak acquisition channels.
+
+Video:
+🔗 Cohort Analysis Explained (Analytics) — YouTube
+
+
+📘 Lesson 2: RFM Analysis (Recency, Frequency, Monetary)
+=========================================================
+Summary:
+RFM helps segment customers based on:
+Recency: How recently a customer purchased
+Frequency: How often they purchase
+Monetary: How much revenue they generate
+
+Example:
+Customer	R	F	M	Segment
+A	5	4	5	VIP
+B	2	1	1	At-risk
+C	3	2	3	Regular
+
+Video:
+🔗 RFM Customer Segmentation Tutorial — YouTube
+
+
+📘 Lesson 3: Forecasting with Moving Averages & Exponential Smoothing
+=========================================================================
+Summary:
+Used for sales, inventory, traffic, and trend forecasting.
+Moving Average Example
+Past 3 months sales: 100, 120, 130
+3-month moving average forecast = (100 + 120 + 130) / 3 = 116.7
+Exponential Smoothing
+Forecast = α × Actual + (1 − α) × Previous Forecast
+
+Video:
+🔗 Time Series Forecasting for Beginners — YouTube
+
+
+📘 Lesson 4: Optimization Using Solver (Excel / Python)
+=========================================================
+Summary:
+Optimization chooses the best possible solution under given constraints.
+
+Example:
+A delivery company wants to minimize fuel cost while meeting all delivery times.
+You define:
+Objective → minimize total cost
+Constraints → vehicle capacity, time, distance
+Excel Solver or Python PuLP can solve it.
+
+Video:
+🔗 Excel Solver Optimization Tutorial — YouTube
+
+
+📘 Lesson 5: Case Study — Inventory Optimization for a Retail Store
+=====================================================================
+Scenario:
+Retailer lost revenue due to stock-outs & overstocking.
+
+What you do as Analyst:
+Analyze past sales
+Identify seasonal patterns
+Apply forecasting
+Recommend optimized reorder points
+Use Solver to minimize holding + stock-out cost
+
+Outcome
+Inventory cost reduced by 18% within 90 days.
+
+Video:
+🔗 Retail Analytics Case Study — YouTube
+
